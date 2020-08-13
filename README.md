@@ -1,2 +1,2 @@
-# Git-Intermediate-Techniques
-Git Intermediate Techniques - Exercies
+This is a demonstraton repository for Git Intermediate Techniques.
+
